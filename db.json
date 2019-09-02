@@ -1,13 +1,5 @@
 {
-  "logs": [
-    {
-      "id": 1,
-      "message": "Changed hdd",
-      "attention": false,
-      "date": "04-20-2019",
-      "tech": "Bob Smith"
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
